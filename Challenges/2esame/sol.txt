@@ -1,0 +1,3 @@
+split divide la stringa in tutto quello prima della a e tutto quello dopo la. La linea dopo 
+fa la somma, quindi basta fare zaz comeinput per passare al livello successivo. il secondo input 
+è SPPRIITZ

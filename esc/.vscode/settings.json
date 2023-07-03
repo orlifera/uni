@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "board.h": "c",
+        "__availability": "c",
+        "string": "c",
+        "algorithm": "c",
+        "es2.h": "c",
+        "functions.h": "c",
+        "stdlib.h": "c",
+        "functional": "c",
+        "unordered_map": "c",
+        "vector": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
